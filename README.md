@@ -5,7 +5,6 @@
 <p align="center">
   <a href="https://github.com/eujrrocha"><img src="https://img.shields.io/badge/GitHub-eujrrocha-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://github.com/eujrrocha?tab=repositories"><img src="https://img.shields.io/badge/Explore-Projects-1677D2?style=for-the-badge&logo=github" alt="Explore projects" /></a>
-  <a href="https://eujrrocha.dev"><img src="https://img.shields.io/badge/Website-eujrrocha.dev-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" alt="Website" /></a>
 </p>
 
 <h1 align="center">Olá, eu sou Jr Rocha 👋</h1>
@@ -87,7 +86,6 @@
 
 <p align="center">
   <a href="https://github.com/eujrrocha"><img src="https://img.shields.io/badge/GitHub-eujrrocha-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://eujrrocha.dev"><img src="https://img.shields.io/badge/Portfolio-eujrrocha.dev-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" alt="Portfolio" /></a>
 </p>
 
 <p align="center">
