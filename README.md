@@ -14,7 +14,7 @@
 <hr />
 
 <h2>Backend &amp; Banco de Dados</h2>
-<p><img src="./assets/backend.svg" alt="Node.js, Express, databases, SQL, REST APIs and Discord integrations" /></p>
+<p><img src="./assets/backend.svg" alt="Node.js, Express, MongoDB, SQLite and Discord integration" /></p>
 
 <h3>Experiência</h3>
 <ul>
@@ -31,7 +31,7 @@
 <hr />
 
 <h2>Frontend &amp; Web</h2>
-<p><img src="./assets/frontend.svg" alt="React, Vite, Tailwind CSS and web development" /></p>
+<p><img src="./assets/frontend.svg" alt="React, Vite and Tailwind CSS" /></p>
 
 <h3>Desenvolvimento</h3>
 <ul>
