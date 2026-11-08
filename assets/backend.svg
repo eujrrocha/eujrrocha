@@ -1,19 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="432" height="82" viewBox="0 0 432 82" role="img"><rect width="432" height="82" rx="12" fill="#0D1117"/><g transform="translate(12 10)">
+<svg xmlns="http://www.w3.org/2000/svg" width="362" height="82" viewBox="0 0 362 82" role="img"><rect width="362" height="82" rx="12" fill="#0D1117"/><g transform="translate(12 10)">
       <rect width="58" height="58" rx="11" fill="#242A33" stroke="#414B58" stroke-width="1.2"/>
-      <g transform="translate(0 0)"><path d="M29 7 48 18v22L29 51 10 40V18Z" fill="#339933"/><text x="29" y="31" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="16" font-weight="800">JS</text></g>
+      <path d="M29 7 48 18v22L29 51 10 40V18Z" fill="#339933"/><text x="29" y="31" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="16" font-weight="800">JS</text>
     </g><g transform="translate(82 10)">
       <rect width="58" height="58" rx="11" fill="#242A33" stroke="#414B58" stroke-width="1.2"/>
-      <g transform="translate(0 0)"><rect x="8" y="9" width="42" height="40" rx="6" fill="#FFFFFF"/><text x="29" y="31" dominant-baseline="middle" text-anchor="middle" fill="#222222" font-family="Arial,sans-serif" font-size="22" font-weight="800">ex</text></g>
+      <rect x="8" y="9" width="42" height="40" rx="6" fill="#FFFFFF"/><text x="29" y="31" dominant-baseline="middle" text-anchor="middle" fill="#222222" font-family="Arial,sans-serif" font-size="22" font-weight="800">ex</text>
     </g><g transform="translate(152 10)">
       <rect width="58" height="58" rx="11" fill="#242A33" stroke="#414B58" stroke-width="1.2"/>
-      <g transform="translate(0 0)"><path d="M16 40c-2-12 7-26 25-27 0 17-10 29-25 27Z" fill="#47A248"/><path d="M18 42c7-9 13-15 22-22" stroke="#FFFFFF" stroke-width="2.2" fill="none" stroke-linecap="round"/></g>
+      <path d="M16 40c-2-12 7-26 25-27 0 17-10 29-25 27Z" fill="#47A248"/><path d="M18 42c7-9 13-15 22-22" stroke="#FFFFFF" stroke-width="2.2" fill="none" stroke-linecap="round"/>
     </g><g transform="translate(222 10)">
       <rect width="58" height="58" rx="11" fill="#242A33" stroke="#414B58" stroke-width="1.2"/>
-      <g transform="translate(0 0)"><rect x="8" y="9" width="42" height="40" rx="7" fill="#003B57"/><text x="29" y="31" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="19" font-weight="800">DB</text></g>
+      <rect x="8" y="9" width="42" height="40" rx="7" fill="#003B57"/><text x="29" y="31" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="19" font-weight="800">DB</text>
     </g><g transform="translate(292 10)">
       <rect width="58" height="58" rx="11" fill="#242A33" stroke="#414B58" stroke-width="1.2"/>
-      <g transform="translate(0 0)"><rect x="8" y="9" width="42" height="40" rx="7" fill="#5865F2"/><path d="M18 21c7-4 15-4 22 0l4 16c-4 4-7 5-11 6l-2-3h-4l-2 3c-4-1-8-3-11-6l4-16Z" fill="none" stroke="#FFFFFF" stroke-width="2.2" stroke-linejoin="round"/><circle cx="23" cy="31" r="2" fill="#FFFFFF"/><circle cx="36" cy="31" r="2" fill="#FFFFFF"/></g>
-    </g><g transform="translate(362 10)">
-      <rect width="58" height="58" rx="11" fill="#242A33" stroke="#414B58" stroke-width="1.2"/>
-      <g transform="translate(0 0)"><rect x="8" y="9" width="42" height="40" rx="7" fill="#4169E1"/><text x="29" y="31" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="18" font-weight="800">PG</text></g>
+      <rect x="8" y="9" width="42" height="40" rx="7" fill="#5865F2"/><path d="M18 21c7-4 15-4 22 0l4 16c-4 4-7 5-11 6l-2-3h-4l-2 3c-4-1-8-3-11-6l4-16Z" fill="none" stroke="#FFFFFF" stroke-width="2.2" stroke-linejoin="round"/><circle cx="23" cy="31" r="2" fill="#FFFFFF"/><circle cx="36" cy="31" r="2" fill="#FFFFFF"/>
     </g></svg>
