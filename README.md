@@ -3,20 +3,21 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/eujrrocha"><img src="https://img.shields.io/badge/GitHub-eujrrocha-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://github.com/eujrrocha?tab=repositories"><img src="https://img.shields.io/badge/Explore-Projects-1677D2?style=for-the-badge&logo=github" alt="Explore projects" /></a>
+  <a href="https://github.com/eujrrocha"><strong>GitHub</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/eujrrocha?tab=repositories"><strong>Projetos / Projects</strong></a>
 </p>
 
 <h1 align="center">Olá, eu sou Jr Rocha 👋</h1>
 
 <p align="center">
   Desenvolvedor focado na criação de aplicações web, bots para Discord, APIs, integrações e automações.
-  Gosto de transformar requisitos em soluções funcionais, com atenção à experiência, organização e detalhes.
+  Gosto de transformar ideias em soluções funcionais, com atenção à experiência, organização e detalhes.
 </p>
 
 <p align="center">
   <em>Software developer focused on web applications, Discord bots, APIs, integrations and automation.
-  I enjoy turning requirements into useful solutions with attention to usability and detail.</em>
+  I enjoy turning ideas into useful solutions with attention to usability and detail.</em>
 </p>
 
 ---
@@ -37,11 +38,7 @@
 ## 🛠️ Tecnologias | Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,ts,tailwind,nodejs,express,mongodb,git&theme=dark" alt="HTML, CSS, React, TypeScript, Tailwind CSS, Node.js, Express, MongoDB and Git" />
-</p>
-
-<p align="center">
-  <sub>Technologies represented in my public projects.</sub>
+  <img src="./assets/tech-stack.svg" alt="HTML, CSS, React, TypeScript, Tailwind CSS, Node.js, Express, MongoDB, Git and REST APIs" width="100%" />
 </p>
 
 ## 🚀 Projetos em destaque | Featured projects
@@ -69,15 +66,10 @@
   <a href="https://github.com/eujrrocha?tab=repositories">Veja todos os repositórios / Explore all repositories →</a>
 </p>
 
-## 📊 Estatísticas | GitHub stats
+## 📌 Visão geral | Profile overview
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=eujrrocha&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&include_all_commits=true" alt="GitHub statistics for eujrrocha" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eujrrocha&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most used languages for eujrrocha" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eujrrocha&bg_color=0D1117&color=C9D1D9&line=2F81F7&point=58A6FF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+  <img src="./assets/profile-overview.svg" alt="Resumo: seis repositórios públicos de projetos, dois projetos em destaque e áreas de desenvolvimento em Web, Discord, APIs e automação." width="100%" />
 </p>
 
 ---
@@ -85,7 +77,7 @@
 ## 📫 Conecte-se | Connect
 
 <p align="center">
-  <a href="https://github.com/eujrrocha"><img src="https://img.shields.io/badge/GitHub-eujrrocha-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/eujrrocha"><strong>GitHub · @eujrrocha</strong></a>
 </p>
 
 <p align="center">
