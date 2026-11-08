@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Jr Rocha — Software Developer</title>
+  <desc id="desc">Dark graphite and electric blue banner for the eujrrocha GitHub profile.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080B11"/>
+      <stop offset=".58" stop-color="#101722"/>
+      <stop offset="1" stop-color="#07182B"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset=".55" stop-color="#268BFF"/>
+      <stop offset="1" stop-color="#536DFF"/>
+    </linearGradient>
+    <linearGradient id="silver" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#9BA9BB"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#8BA8C7" stroke-opacity=".08" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="280" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="280" rx="22" fill="url(#grid)"/>
+  <path d="M0 220 190 0h70L70 280H0Z" fill="#10243A" opacity=".45"/>
+  <path d="M895 0h90L790 280h-90Z" fill="#10243A" opacity=".32"/>
+  <path d="M0 258 240 0" stroke="url(#blue)" stroke-width="3" opacity=".85"/>
+  <path d="M1200 22 1010 280" stroke="url(#blue)" stroke-width="2" opacity=".65"/>
+  <circle cx="1040" cy="85" r="150" fill="#1266D8" opacity=".08" filter="url(#glow)"/>
+  <g transform="translate(74 58)">
+    <path d="M14 108 58 7h48L62 108H14Z" fill="none" stroke="url(#blue)" stroke-width="8" stroke-linejoin="round"/>
+    <path d="M70 108 112 7h49c31 0 46 21 34 49-8 19-24 31-46 36l23 16h-55l-28-24-10 24H70Z" fill="none" stroke="url(#silver)" stroke-width="8" stroke-linejoin="round"/>
+    <path d="M125 48h26c8 0 13-4 16-12 3-7 0-11-8-11h-22l-12 23Z" fill="#DCE7F5"/>
+    <path d="M8 124h192" stroke="url(#blue)" stroke-width="3" opacity=".75"/>
+  </g>
+  <path d="M315 48V230" stroke="#64748B" stroke-opacity=".35"/>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="365" y="112" fill="#F8FAFC" font-size="58" font-weight="750" letter-spacing="2">JR ROCHA</text>
+    <text x="369" y="157" fill="#55B7FF" font-size="20" font-weight="650" letter-spacing="8">SOFTWARE DEVELOPER</text>
+    <text x="369" y="198" fill="#CBD5E1" font-size="18">Aplicações Web  •  Bots Discord  •  APIs  •  Automações</text>
+    <rect x="367" y="219" width="218" height="38" rx="19" fill="#0B1726" stroke="url(#blue)" stroke-width="1.5"/>
+    <text x="390" y="244" fill="#E2E8F0" font-size="16" font-weight="600">eujrrocha.dev</text>
+    <text x="551" y="244" fill="#38BDF8" font-size="16">&lt;/&gt;</text>
+  </g>
+  <g transform="translate(860 54)" opacity=".85">
+    <rect width="270" height="172" rx="14" fill="#080D15" stroke="#2B4058" stroke-width="1.5"/>
+    <path d="M0 39h270" stroke="#2B4058"/>
+    <circle cx="19" cy="20" r="5" fill="#F87171"/>
+    <circle cx="39" cy="20" r="5" fill="#FBBF24"/>
+    <circle cx="59" cy="20" r="5" fill="#4ADE80"/>
+    <g font-family="Consolas, monospace" font-size="12">
+      <text x="18" y="66" fill="#7DD3FC">const</text><text x="58" y="66" fill="#E2E8F0"> developer = {</text>
+      <text x="30" y="91" fill="#A5B4FC">focus:</text><text x="83" y="91" fill="#86EFAC"> "web &amp; automation",</text>
+      <text x="30" y="116" fill="#A5B4FC">build:</text><text x="83" y="116" fill="#86EFAC"> "useful solutions",</text>
+      <text x="30" y="141" fill="#A5B4FC">status:</text><text x="83" y="141" fill="#86EFAC"> "always learning"</text>
+      <text x="18" y="160" fill="#E2E8F0">};</text>
+    </g>
+  </g>
+</svg>
