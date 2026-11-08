@@ -1,85 +1,35 @@
-<p align="center">
-  <img src="./assets/banner.svg" alt="Jr Rocha — Software Developer" width="100%" />
-</p>
+# Jr Rocha
 
-<p align="center">
-  <a href="https://github.com/eujrrocha"><strong>GitHub</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/eujrrocha?tab=repositories"><strong>Projetos / Projects</strong></a>
-</p>
+**Software Developer · Web Applications · APIs · Discord Integrations**
 
-<h1 align="center">Olá, eu sou Jr Rocha 👋</h1>
+I build web applications, automation tools and integrations that connect services. My current work is mostly focused on JavaScript and TypeScript, from user interfaces to backend services.
 
-<p align="center">
-  Desenvolvedor focado na criação de aplicações web, bots para Discord, APIs, integrações e automações.
-  Gosto de transformar ideias em soluções funcionais, com atenção à experiência, organização e detalhes.
-</p>
+Desenvolvo aplicações web, ferramentas de automação e integrações entre serviços. Gosto de trabalhar em projetos completos, cuidando da interface, das regras de negócio e da experiência de quem usa.
 
-<p align="center">
-  <em>Software developer focused on web applications, Discord bots, APIs, integrations and automation.
-  I enjoy turning ideas into useful solutions with attention to usability and detail.</em>
-</p>
+## Selected projects
 
----
+### [Fluxo Recruitment](https://github.com/eujrrocha/fluxo-recruitment)
 
-## 🧑‍💻 Sobre mim | About me
+A recruitment platform built around Discord communities. It brings together Discord OAuth2 authentication, candidate applications, an administrative dashboard and notifications.
 
-- 🇧🇷 Desenvolvedor do Brasil, construindo projetos e aprendendo continuamente.
-- ⚙️ Interesse em aplicações web, automação de processos e integração entre serviços.
-- 🔌 Experiência prática com APIs, dashboards e ferramentas conectadas ao Discord.
-- 🚀 Buscando escrever código organizado e criar soluções úteis.
+**Stack:** React · TypeScript · Tailwind CSS · Node.js · Express · MongoDB
 
-<em>
-  Based in Brazil, building projects and continuously learning. Interested in web apps,
-  process automation and service integrations, with hands-on work on APIs, dashboards
-  and Discord-connected tools.
-</em>
+### [Tokly](https://github.com/eujrrocha/tokly-site)
 
-## 🛠️ Tecnologias | Tech stack
+A lightweight website for a Telegram bot, built with HTML and CSS. Includes service information, privacy and terms pages, responsive layouts and static-site configuration.
 
-<p align="center">
-  <img src="./assets/tech-stack.svg" alt="HTML, CSS, React, TypeScript, Tailwind CSS, Node.js, Express, MongoDB, Git and REST APIs" width="100%" />
-</p>
+**Stack:** HTML · CSS
 
-## 🚀 Projetos em destaque | Featured projects
+## Technologies
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/eujrrocha/tokly-site">Tokly — Website</a></h3>
-      <p>Site estático para um bot do Telegram, com apresentação do serviço, páginas de privacidade e termos de uso.</p>
-      <p><em>Static website for a Telegram bot, including service information, privacy and terms pages.</em></p>
-      <p><sub><strong>HTML · CSS</strong></sub></p>
-      <p><a href="https://github.com/eujrrocha/tokly-site">Ver repositório / View repository →</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/eujrrocha/fluxo-recruitment">Fluxo Recruitment</a></h3>
-      <p>Plataforma de recrutamento integrada ao Discord, com formulário de candidatura, API e painel administrativo.</p>
-      <p><em>Discord-integrated recruitment platform with an application form, API and admin dashboard.</em></p>
-      <p><sub><strong>React · TypeScript · Tailwind CSS · Node.js · Express · MongoDB</strong></sub></p>
-      <p><a href="https://github.com/eujrrocha/fluxo-recruitment">Ver repositório / View repository →</a></p>
-    </td>
-  </tr>
-</table>
+JavaScript · TypeScript · React · Node.js · Express · MongoDB · HTML · CSS · Tailwind CSS · Git
 
-<p align="center">
-  <a href="https://github.com/eujrrocha?tab=repositories">Veja todos os repositórios / Explore all repositories →</a>
-</p>
+## About
 
-## 📌 Visão geral | Profile overview
+I value clear interfaces, maintainable code and practical solutions. This profile is where I share selected work and experiments.
 
-<p align="center">
-  <img src="./assets/profile-overview.svg" alt="Resumo: seis repositórios públicos de projetos, dois projetos em destaque e áreas de desenvolvimento em Web, Discord, APIs e automação." width="100%" />
-</p>
+Gosto de interfaces claras, código organizado e soluções práticas. Aqui compartilho alguns projetos e experimentos.
 
 ---
 
-## 📫 Conecte-se | Connect
-
-<p align="center">
-  <a href="https://github.com/eujrrocha"><strong>GitHub · @eujrrocha</strong></a>
-</p>
-
-<p align="center">
-  <sub>Feito com dedicação por Jr Rocha · Built with care by Jr Rocha</sub>
-</p>
+[GitHub repositories](https://github.com/eujrrocha?tab=repositories)
