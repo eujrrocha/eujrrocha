@@ -1,35 +1,69 @@
-<p align="center">
-  <img src="./assets/jr-rocha-header.svg" alt="Jr Rocha — Software Developer" width="100%" />
-</p>
+<h1>Jr Rocha</h1>
 
-<p align="center">
-  <strong>Software Developer</strong> &nbsp;·&nbsp; Web Applications &nbsp;·&nbsp; APIs &nbsp;·&nbsp; Automation
-</p>
+![Profile views](https://komarev.com/ghpvc/?username=eujrrocha&color=555555&style=flat-square&label=VISITAS)
 
-I build web applications and connected systems, with most of my work focused on JavaScript and TypeScript. I enjoy taking a project from its interface through to the API and the integrations behind it.
+**Desenvolvedor Full Stack** focado em aplicações web, APIs, automações e integrações com Discord.
 
-Desenvolvo aplicações web e sistemas integrados, principalmente com JavaScript e TypeScript. Gosto de cuidar do projeto como um todo: da interface às APIs e integrações que fazem tudo funcionar.
+*Full Stack Developer focused on web applications, APIs, automation and Discord integrations.*
 
 ---
 
-## Projects
+## Linguagens
 
-### [Fluxo Recruitment](https://github.com/eujrrocha/fluxo-recruitment)
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-292929?style=for-the-badge&logo=javascript&logoColor=FFFFFF" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-353535?style=for-the-badge&logo=typescript&logoColor=FFFFFF" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HTML5-414141?style=for-the-badge&logo=html5&logoColor=FFFFFF" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-505050?style=for-the-badge&logo=css3&logoColor=FFFFFF" alt="CSS3" />
+</p>
 
-A recruitment platform for Discord communities, with Discord OAuth2 login, candidate applications, an admin dashboard and notifications.
+## Backend & Banco de Dados
 
-**Stack:** React · TypeScript · Tailwind CSS · Node.js · Express · MongoDB
+<p>
+  <img src="https://img.shields.io/badge/Node.js-292929?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-353535?style=for-the-badge&logo=express&logoColor=FFFFFF" alt="Express" />
+  <img src="https://img.shields.io/badge/Discord.js-414141?style=for-the-badge&logo=discord&logoColor=FFFFFF" alt="Discord.js" />
+  <img src="https://img.shields.io/badge/MongoDB-505050?style=for-the-badge&logo=mongodb&logoColor=FFFFFF" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/SQLite-606060?style=for-the-badge&logo=sqlite&logoColor=FFFFFF" alt="SQLite" />
+</p>
 
-### [Tokly](https://github.com/eujrrocha/tokly-site)
+## Experiência
 
-A lightweight website for a Telegram bot. Includes the service page, privacy policy, terms of use and responsive layouts.
+- Desenvolvimento de APIs REST
+- Integrações com Discord e OAuth2
+- Bots e automações para Discord
+- Sistemas de pedidos e recrutamento
+- Dashboards e painéis administrativos
+- Integração com bancos de dados
+- Webhooks e comunicação entre serviços
+- Atualizações em tempo real com eventos e SSE
 
-**Stack:** HTML · CSS
+## Frontend & Web
 
-## Technologies
+<p>
+  <img src="https://img.shields.io/badge/React-292929?style=for-the-badge&logo=react&logoColor=FFFFFF" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-353535?style=for-the-badge&logo=vite&logoColor=FFFFFF" alt="Vite" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-414141?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF" alt="Tailwind CSS" />
+</p>
 
-JavaScript · TypeScript · React · Node.js · Express · MongoDB · HTML · CSS · Tailwind CSS · Git
+## Ferramentas
+
+<p>
+  <img src="https://img.shields.io/badge/Git-292929?style=for-the-badge&logo=git&logoColor=FFFFFF" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-353535?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-414141?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/npm-505050?style=for-the-badge&logo=npm&logoColor=FFFFFF" alt="npm" />
+</p>
+
+## Projetos
+
+- **[Fluxo Recruitment](https://github.com/eujrrocha/fluxo-recruitment)** — Plataforma de recrutamento com autenticação Discord, API e painel administrativo.
+- **[Tokly](https://github.com/eujrrocha/tokly-site)** — Site do bot para Telegram, com páginas institucionais e legais.
+
+## Contato
+
+[GitHub](https://github.com/eujrrocha) · [Repositórios](https://github.com/eujrrocha?tab=repositories)
 
 ---
 
-[All repositories →](https://github.com/eujrrocha?tab=repositories)
+<p align="right"><sub>Jr Rocha</sub></p>
