@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-labelledby="title desc">
+  <title id="title">Jr Rocha — Software Developer</title>
+  <desc id="desc">Minimal dark graphite banner with a blue monogram and the name Jr Rocha.</desc>
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#2563EB"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="250" rx="16" fill="#0D1117"/>
+  <path d="M0 0h1200v4H0z" fill="url(#line)"/>
+  <path d="M0 246h1200v4H0z" fill="#21262D"/>
+  <path d="M64 54v142" stroke="#30363D" stroke-width="2"/>
+  <rect x="88" y="75" width="104" height="104" rx="14" fill="#111B28" stroke="#244B70" stroke-width="2"/>
+  <path d="M112 145V109h15c12 0 19 6 19 17s-7 19-19 19h-15Zm15-11c5 0 8-3 8-8s-3-7-8-7h-4v15h4Z" fill="#E6EDF3"/>
+  <path d="M151 145v-36h11v27h19v9h-30Z" fill="#58A6FF"/>
+  <path d="M96 188h88" stroke="url(#line)" stroke-width="3" stroke-linecap="round"/>
+  <text x="232" y="118" fill="#F0F6FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="52" font-weight="700" letter-spacing="-1.8">Jr Rocha</text>
+  <text x="235" y="158" fill="#8B949E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="600" letter-spacing="3.6">SOFTWARE DEVELOPER</text>
+  <path d="M235 184h54" stroke="url(#line)" stroke-width="3" stroke-linecap="round"/>
+  <text x="235" y="214" fill="#6E7681" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" letter-spacing="1.2">WEB APPLICATIONS  ·  APIS  ·  AUTOMATION</text>
+  <g opacity=".35" fill="none" stroke="#2F81F7">
+    <path d="M890 55h210M930 73h170M970 91h130" stroke-width="1.5"/>
+    <path d="M1055 150h75M1015 168h115M975 186h155" stroke-width="1.5"/>
+    <circle cx="1122" cy="54" r="4" fill="#58A6FF" stroke="none"/>
+    <circle cx="952" cy="204" r="4" fill="#58A6FF" stroke="none"/>
+  </g>
+</svg>
